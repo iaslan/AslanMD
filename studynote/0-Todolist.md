@@ -3,13 +3,13 @@
 
 #### 开源软件
 
-- [turnkeylinux](http://www.turnkeylinux.org/all)
-- wordpress
-- 开源项目管理 openproject  kanboard
-- 开源问卷调查 limesurvey
-- 开源监控 zabbix opserver
-- 开源媒资 razuna
-- 开源报表 jaspersoft
+- [ ] [turnkeylinux](http://www.turnkeylinux.org/all)
+- [ ] wordpress
+- [ ] 开源项目管理 openproject  kanboard
+- [ ] 开源问卷调查 limesurvey
+- [ ] 开源监控 zabbix opserver
+- [ ] 开源媒资 razuna
+- [ ] 开源报表 jaspersoft
 
 
 #### 敏捷开发
@@ -38,7 +38,8 @@ scrum
   - RoambiAPP
 
 
-  - 课程内容的说明：
+
+- 课程内容的说明：
 
   1.Math 数学
   线性代数
@@ -70,10 +71,10 @@ scrum
 #### 项目管理
 
 - 团队协作
-  - trello
-  - asana
-  - tower
-  - teambition
+  - [ ] trello
+  - [ ] asana
+  - [ ] tower
+  - [ ] teambition
 
 #### cloudcomputing
 
